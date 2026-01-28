@@ -1,4 +1,4 @@
-ROM NEED CUSTOM DEVICES INFO
+ROOT NEED CUSTOM DEVICES INFO
 
 Root need Custom Devices
 Overview
