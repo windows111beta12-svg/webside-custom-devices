@@ -1,4 +1,4 @@
-Đây là nội dung file README.md chuyên nghiệp dành cho dự án của em, trình bày hoàn toàn bằng văn bản (không dùng icon) để phù hợp với phong cách lập trình viên thực thụ.
+ROM NEED CUSTOM DEVICES INFO
 
 Root need Custom Devices
 Overview
